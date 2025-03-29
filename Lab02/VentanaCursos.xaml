@@ -41,9 +41,6 @@
                 Background="Yellow" Height="30" Width="100">
         </Button>
 
-        <Button></Button>
-
-        <Button></Button>
 
     </Grid>
 </Window>
